@@ -1,8 +1,6 @@
 # Nyheter
 
-Koden skrivs på Engelska
-
-Commits skrivs på Engelska
+News wesbite in React JS, using mongo DB to store article and account data.
 
 ## Naming
  ###### Filer
